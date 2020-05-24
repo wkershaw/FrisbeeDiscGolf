@@ -9,4 +9,4 @@ Use the A and S to aim and space to throw the shot <br>
 Using the arrow keys will adjust the trajectory of your throw <br>
 
 <h2>Link to play</h2>
-<a href='https://wkershaw.github.io/RhythmFightingGame'>https://wkershaw.github.io/RhythmFightingGame</a>
+<a href='https://wkershaw.github.io/FrisbeeDiscGolf/'>https://wkershaw.github.io/FrisbeeDiscGolf/</a>
